@@ -1,1 +1,1 @@
-[![rezir008](https://app.circleci.com/pipelines/github/rezir008/SubFinalCapstoneRezi.svg?style=svg)](https://app.circleci.com/pipelines/github/rezir008/SubFinalCapstoneRezi)
+[![rezir008](https://circleci.com/gh/rezir008/SubFinalCapstoneRezi.svg?style=svg)](https://circleci.com/gh/rezir008/SubFinalCapstoneRezi)
