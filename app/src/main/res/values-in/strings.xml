@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_mt">Judul Movie Atau Tv Show </string>
+    <string name="year_mt">2019</string>
+    <string name="rating_mt">9.0</string>
+    <string name="date_mt">2000–01-01</string>
+    <string name="tv_show">TV SHOW</string>
+    <string name="movie">MOVIE</string>
+    <string name="overview_mt">Ringkasan :</string>
+    <string name="detail_mt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry is standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="favorite_data">Favorite Data</string>
+    <string name="favorite">FAVORIT</string>
+    <string name="movie_fav">MOVIE FAVORIT</string>
+    <string name="tv_show_fav">TV SHOW FAVORIT</string>
+    <string name="date_img">Gambar Tanggal</string>
+    <string name="star_half_img">Gambar Bintang Setengah </string>
+    <string name="img_view">Tampilan Konten Gambar </string>
+    <string name="img_item">Konten Gambar Poster</string>
+    <string name="img_splash">Gambar Splash Screen</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="search">Pencarian</string>
+    <string name="settings">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="titleShare">Bagikan aplikasi ini sekarang!</string>
+    <string name="bodyShare2">di The Movie, Unduh Aplikasi ini Sekarang!</string>
+    <string name="bodyShare1">"Saya sedang melihat info film"</string>
+    <string name="no_data">DATA KOSONG!</string>
+    <string name="no_found">DATA TIDAK DITEMUKAN!</string>
+</resources>
