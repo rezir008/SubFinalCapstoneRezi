@@ -89,7 +89,7 @@ class TvFragment : Fragment(), View.OnClickListener {
                     adapterDataMT.setData(Tv.data)
                 }
                 is Resource.Error -> {
-                    setVisibility(false,true)
+                    setVisibility(false,false)
                     Toast.makeText(context, "there is an error", Toast.LENGTH_SHORT).show()
                 }
             }
