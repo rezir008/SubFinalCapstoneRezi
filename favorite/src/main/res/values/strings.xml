@@ -1,31 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-        <string name="app_name">The Movie</string>
-        <string name="hello_blank_fragment">Hello blank fragment</string>
-        <string name="title_mt">Title Movie or Tv Show </string>
-        <string name="year_mt">2019</string>
-        <string name="rating_mt">9.0</string>
-        <string name="date_mt">2000–01-01</string>
-        <string name="tv_show">TV SHOW</string>
-        <string name="movie">MOVIE</string>
-        <string name="overview_mt">Overview :</string>
-        <string name="detail_mt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry is standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
-        <string name="favorite_data">Favorite Data</string>
-        <string name="favorite">FAVORITE</string>
-        <string name="movie_fav">MOVIE FAVORITE</string>
-        <string name="tv_show_fav">TV SHOW FAVORITE</string>
-        <string name="date_img">Date Image</string>
-        <string name="star_half_img">Star Half Image</string>
-        <string name="img_view">Content Image View</string>
-        <string name="img_item">Content Image Poster</string>
-        <string name="img_splash">Image Splash Screen</string>
-        <string name="togglebutton">ToggleButton</string>
-        <string name="search">Search</string>
-        <string name="settings">Settings</string>
-        <string name="title_favorit" translatable="false">Favorite</string>
-        <string name="share">Share</string>
-        <string name="titleShare">Share this app now!</string>
-        <string name="bodyShare2">movie info in The Movie, Download this Application Now!</string>
-        <string name="bodyShare1">"I'm looking at the"</string>
-        <string name="no_data">EMPTY DATA!</string>
-        <string name="no_found">DATA NOT FOUND!</string>
+        <string name="movie_fav">MOVIE FAVORIT</string>
+        <string name="tv_show_fav">TV SHOW FAVORIT</string>
+        <string name="no_data">DATA KOSONG!</string>
 </resources>
