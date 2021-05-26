@@ -39,7 +39,7 @@ class TvFragment : Fragment(), View.OnClickListener {
     ): View? {
         binding = FragmentTvBinding.inflate(inflater, container, false)
         val tBar: Toolbar = activity?.findViewById<View>(R.id.tBar) as Toolbar
-        (activity as AppCompatActivity?)?.setSupportActionBar(tBar)
+        (activity as AppCompatActivity).setSupportActionBar(tBar)
         setHasOptionsMenu(true)
         searchMaterial = (activity as HomeActivity).findViewById(R.id.search_view)
         return binding_?.root
