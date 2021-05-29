@@ -138,7 +138,6 @@
         android:layout_margin="16dp"
         android:text="@string/share"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_share"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent" />
 

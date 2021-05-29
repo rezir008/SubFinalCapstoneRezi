@@ -28,7 +28,6 @@
             android:name="com.example.sub1capstonerezi.detail.DetailActivity"
             android:theme="@style/DetailTheme"
             android:configChanges="orientation|screenSize" />
-
     </application>
 
 </manifest>

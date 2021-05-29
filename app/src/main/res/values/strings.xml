@@ -24,7 +24,7 @@
     <string name="share">Share</string>
     <string name="titleShare">Share this app now!</string>
     <string name="bodyShare2">movie info in The Movie, Download this Application Now!</string>
-    <string name="bodyShare1">"I'm looking at the"</string>
+    <string name="bodyShare1">"I’m looking at the"</string>
     <string name="no_data">EMPTY DATA!</string>
     <string name="no_found">DATA NOT FOUND!</string>
 </resources>
