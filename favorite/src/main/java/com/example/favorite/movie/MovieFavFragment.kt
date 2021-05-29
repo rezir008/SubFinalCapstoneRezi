@@ -19,8 +19,8 @@ class MovieFavFragment : Fragment() {
 
     private var binding: FragmentMovieFavBinding? = null
     private val binding_ get() = binding
-    private val vModel: FavViewModel by viewModel()
-    private lateinit var adapterDataMT: DataMTAdapter
+    internal val vModel: FavViewModel by viewModel()
+    internal lateinit var adapterDataMT: DataMTAdapter
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

@@ -1,7 +1,7 @@
 package com.example.core.data
 
-import com.example.core.data.response.MovieResponse
-import com.example.core.data.response.TvResponse
+import com.example.core.data.source.remote.response.MovieResponse
+import com.example.core.data.source.remote.response.TvResponse
 import com.example.core.data.source.local.LocalDataSource
 import com.example.core.data.source.remote.RemoteDataSource
 import com.example.core.utils.AppExecutors

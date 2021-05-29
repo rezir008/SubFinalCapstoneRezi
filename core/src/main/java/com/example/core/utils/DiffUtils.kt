@@ -1,4 +1,4 @@
-package com.extcode.project.core.utils
+package com.example.core.utils
 
 import androidx.annotation.Nullable
 import androidx.recyclerview.widget.DiffUtil

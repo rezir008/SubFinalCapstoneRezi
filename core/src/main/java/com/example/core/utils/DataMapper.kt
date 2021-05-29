@@ -1,8 +1,8 @@
 package com.example.core.utils
 
-import com.example.core.data.response.MovieResponse
+import com.example.core.data.source.remote.response.MovieResponse
 import com.example.core.domain.model.DataMT
-import com.example.core.data.response.TvResponse
+import com.example.core.data.source.remote.response.TvResponse
 import com.example.core.data.source.local.entity.DataMTEntity
 
 object DataMapper {

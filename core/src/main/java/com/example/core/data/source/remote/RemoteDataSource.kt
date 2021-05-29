@@ -1,7 +1,7 @@
 package com.example.core.data.source.remote
 
-import com.example.core.data.response.MovieResponse
-import com.example.core.data.response.TvResponse
+import com.example.core.data.source.remote.response.MovieResponse
+import com.example.core.data.source.remote.response.TvResponse
 import com.example.core.data.source.remote.network.ApiResponse
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

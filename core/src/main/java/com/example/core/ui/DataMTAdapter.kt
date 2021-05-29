@@ -11,7 +11,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import com.example.core.domain.model.DataMT
 import com.example.core.utils.Network.IMAGE_URL
-import com.extcode.project.core.utils.DiffUtils
+import com.example.core.utils.DiffUtils
 import java.util.ArrayList
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
@@ -20,7 +20,7 @@ import com.bumptech.glide.load.DataSource
 @Suppress("DEPRECATION")
 class DataMTAdapter : RecyclerView.Adapter<DataMTAdapter.DataMTViewHolder>() {
 
-    private var listData = ArrayList<DataMT>()
+    internal var listData = ArrayList<DataMT>()
     var onItemClick: ((DataMT) -> Unit)? = null
 
     fun setData(listDataMT: List<DataMT>?) {
